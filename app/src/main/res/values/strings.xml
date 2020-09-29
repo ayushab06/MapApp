@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_places_map">Map</string>
+    <string name="title_activity_create_map">Map</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
